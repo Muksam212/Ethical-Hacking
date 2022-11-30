@@ -1,7 +1,7 @@
 # Ethical-Hacking
 Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data.
 
-In this whole course. You will learn so many concept like Ethical hacking like
+In this whole course. You will learn so many concept of Ethical hacking like
 a) HTML Code Tempering.
 b) Cookie's Tempering.
 c) URL Redirection.
